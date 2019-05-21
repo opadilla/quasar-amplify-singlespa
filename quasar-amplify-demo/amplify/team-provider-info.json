@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "quasar-demo-dev-20190520170039-authRole",
+            "UnauthRoleArn": "arn:aws:iam::741504882728:role/quasar-demo-dev-20190520170039-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::741504882728:role/quasar-demo-dev-20190520170039-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "quasar-demo-dev-20190520170039-deployment",
+            "UnauthRoleName": "quasar-demo-dev-20190520170039-unauthRole",
+            "StackName": "quasar-demo-dev-20190520170039",
+            "StackId": "arn:aws:cloudformation:us-east-1:741504882728:stack/quasar-demo-dev-20190520170039/b49dd630-7b4a-11e9-aa0c-0eaaceea2200"
+        },
+        "categories": {
+            "auth": {
+                "cognito0c98f5c9": {}
+            }
+        }
+    }
+}
