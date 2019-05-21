@@ -17,3 +17,8 @@ export function people(location) {
 export function planets(location) {
   return prefix(location, 'planets')
 }
+
+export function vueCliDefault(location) {
+  return prefix(location, 'vueCliDefault')
+}
+
