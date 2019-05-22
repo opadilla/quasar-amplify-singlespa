@@ -1,3 +1,0 @@
-# Quasar App
-
-> wip
